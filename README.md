@@ -5,7 +5,7 @@ PersonalWebPages : Benim static bilgileri koyduğum bir website:
 2 Kişisel Bilgilerim:Filmler Oyunlar ve İlişki hakkında
 3 Others 
 
-https://srgndrlk.github.io/PersonalWebPages/
+https://srgndrlk.github.io/webOF/
 sergendirlik.com.tr
 
 hjgh
