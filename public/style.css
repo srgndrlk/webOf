@@ -3,6 +3,7 @@ body {
 background-color: darkgray;
 margin: 0;
 padding: 0;
+
 min-height: 100vh; /* take full height of the viewport */
 height: 100%;
 }
@@ -10,19 +11,57 @@ height: 100%;
 
 
 
-/* Resetting default link styles */
-a {color: inherit; /* Inherit text color from parent */
-text-decoration: none; /* Remove default underline */
-color: rgb(221, 221, 221); /* Text color */
+nav{
+  color: #777777;
+  background-color: rgb(63, 63, 63);
+  padding: 0;
+  margin: 0;
+  border: none;
+  
+}
+nav div{
+color: #777777;
+}
+
+div{ border:1px solid rgb(0, 85, 1);
+border-radius: 1rem;
+text-align: center;
+}
+
+div a{display: block;
+text-decoration: none;
+color: aquamarine;
+
+}
+div span{
+  color: rgb(140, 140, 140);
 }
 
 
 
 
 
+pre{
+  white-space: pre-wrap;
+}
+
+main{ height: 400px;
+  border:2px solid rgb(2, 2, 2);
+}
+
+
+footer{
+color: rgb(149, 149, 149);
+background-color: rgb(41, 41, 41);
+text-align: center;
+font-size: medium;
+
+}
+
+
+
 
 h1,h2,h3,h4,h5,h6{
-
   margin: 0;
 }
 
